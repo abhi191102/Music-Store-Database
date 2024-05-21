@@ -1,4 +1,4 @@
--- Challanges Intermediate--
+-- Challanges Basics--
 /* Who is the senior most Employee Base on the Job title*/
 
 SELECT * from employee
